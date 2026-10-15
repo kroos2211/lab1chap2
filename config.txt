@@ -1,0 +1,2 @@
+com.example.jpa.dao.DaoImpl
+com.example.jpa.metier.MetierImpl
